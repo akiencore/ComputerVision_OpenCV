@@ -1,9 +1,11 @@
 # Nov 17, 2020 - Apply Canny Edge Detection
 
+![](example.gif)
+
 ## Purpose: 
 Apply OpenCV to Microsoft Visual Studio to: 
 * Load an image and transform it into a grayscale image
-* 
+* Apply Canny Edge Detector to find edges that fits the image, there is a tradeoff between accuracy and find all edges
     
 </br>
 
@@ -34,3 +36,6 @@ Apply OpenCV to Microsoft Visual Studio to:
 1. Modify \vc15-3.2\OpenCVExample\OpenCVExample.cpp
 
 </br>
+
+## How to adjust threshold:
+There will be a trackbar in Edge Map to change threshold of the filter. 

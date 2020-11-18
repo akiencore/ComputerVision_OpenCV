@@ -35,7 +35,10 @@ int main(int argc, char** argv)
 {	
 	//if got the input of 2 strings, the filename is the 2nd input string
 	//otherwise, the default file name is "image01.jpg"
-	string filename = argc == 2 ? argv[1] : (char*)"image01.jpg";
+	string filename = "image01.jpg";
+	if (argc == 2) {
+		filename = argv[1];
+	}
 
 	//load the image with the filename into image
 	//the second parameter is "is a colored image?"
