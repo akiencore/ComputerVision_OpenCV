@@ -9,6 +9,7 @@
 1. Change the image into the grayscale image
 2. Blur the image
 3. Define a threshold to apply Canny Edge Detection
+4. Rememeber edge found by Canny Edge Detection
     
 </br>
 
