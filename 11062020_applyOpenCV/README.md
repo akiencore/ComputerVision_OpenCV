@@ -1,13 +1,13 @@
 # Nov 6, 2020 - Load Image and Resize
 
 ## Purpose: 
-Apply OpenCV to Microsoft Visual Studio to: 
+Apply OpenCV to: 
 * Load images in a directory and show that image
 * Resize that loaded image
     
 </br>
 
-## Environment settings:
+## Environment:
 
 * Programming Languages: 
     * C++

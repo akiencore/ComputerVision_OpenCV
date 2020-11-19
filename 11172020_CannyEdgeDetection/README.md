@@ -9,7 +9,7 @@ Apply OpenCV to:
     
 </br>
 
-## Environment settings:
+## Environment:
 
 * Programming Languages: 
     * C++
