@@ -4,8 +4,7 @@
 
 ## Purpose: 
 Apply OpenCV to: 
-* Load an image and transform it into a grayscale image
-* Apply Canny Edge Detector to find edges that fits the image, there is a tradeoff between accuracy and find all edges
+* Find edges that fits the image by Canny Edge Detection
     
 </br>
 
