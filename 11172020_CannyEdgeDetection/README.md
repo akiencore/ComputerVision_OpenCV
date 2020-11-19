@@ -3,7 +3,7 @@
 ![](example.gif)
 
 ## Purpose: 
-Apply OpenCV to Microsoft Visual Studio to: 
+Apply OpenCV to: 
 * Load an image and transform it into a grayscale image
 * Apply Canny Edge Detector to find edges that fits the image, there is a tradeoff between accuracy and find all edges
     
