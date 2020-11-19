@@ -3,8 +3,12 @@
 ![](example.gif)
 
 ## Purpose: 
-Apply OpenCV to: 
-* Find edges that fits the image by Canny Edge Detection
+* Find edges that fits the image
+
+### Basic Idea:
+1. Change the image into the grayscale image
+2. Blur the image
+3. Define a threshold to apply Canny Edge Detection
     
 </br>
 
