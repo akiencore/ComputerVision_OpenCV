@@ -8,7 +8,7 @@
 
 ## Environment:
 
-* Programming Languages: 
+* Programming Language: 
     * C++
 * Microsoft Visual Studio 2017
 * OpenCV 3.2 (x64)

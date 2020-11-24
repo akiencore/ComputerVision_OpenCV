@@ -8,14 +8,14 @@
 ### Basic Idea:
 1. Change the image into the grayscale image
 2. Blur the image
-3. Define a edge threshold to apply Canny Edge Detection
-4. Rememeber edge found by Canny Edge Detection
+3. Define an edge threshold to apply Canny Edge Detection
+4. Rememeber those edges found by Canny Edge Detection
     
 </br>
 
 ## Environment:
 
-* Programming Languages: 
+* Programming Language: 
     * C++
 * Microsoft Visual Studio 2017
 * OpenCV 3.2 (x64)
